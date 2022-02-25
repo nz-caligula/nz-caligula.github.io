@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>http://nz-caligula.github.io/</loc>
+  <lastmod>2022-02-24T03:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nz-caligula.github.io/archive.html</loc>
+  <lastmod>2022-02-24T03:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nz-caligula.github.io/categories/</loc>
+  <lastmod>2022-02-24T03:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nz-caligula.github.io/galleries/</loc>
+  <lastmod>2022-02-24T03:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nz-caligula.github.io/listings/</loc>
+  <lastmod>2022-02-24T03:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nz-caligula.github.io/pages/new-zealands-caligula/</loc>
+  <lastmod>2022-02-24T03:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nz-caligula.github.io/pages/new-zealands-caligula/index.src.html</loc>
+  <lastmod>2022-02-24T03:57:00Z</lastmod>
+ </url>
+</urlset>
