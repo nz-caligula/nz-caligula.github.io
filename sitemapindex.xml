@@ -6,15 +6,39 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>http://nz-caligula.github.io/categories/cat_jacinda-ardern.xml</loc>
+  <lastmod>2022-02-26T02:25:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://nz-caligula.github.io/categories/jacinda-ardern.xml</loc>
+  <lastmod>2022-02-26T02:25:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://nz-caligula.github.io/categories/look-at-me.xml</loc>
+  <lastmod>2022-02-26T02:25:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://nz-caligula.github.io/galleries/rss.xml</loc>
+  <lastmod>2022-02-26T02:48:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://nz-caligula.github.io/nz-caligula.github.io/galleries/rss.xml</loc>
   <lastmod>2022-02-24T03:43:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://nz-caligula.github.io/rss.xml</loc>
+  <loc>http://nz-caligula.github.io/nz-caligula.github.io/rss.xml</loc>
   <lastmod>2022-02-24T03:35:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://nz-caligula.github.io/sitemap.xml</loc>
+  <loc>http://nz-caligula.github.io/nz-caligula.github.io/sitemap.xml</loc>
   <lastmod>2022-02-24T03:57:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://nz-caligula.github.io/rss.xml</loc>
+  <lastmod>2022-02-26T02:25:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://nz-caligula.github.io/sitemap.xml</loc>
+  <lastmod>2022-02-26T02:48:00Z</lastmod>
  </sitemap>
 </sitemapindex>
