@@ -7,171 +7,119 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://nz-caligula.github.io/</loc>
-  <lastmod>2022-05-30T04:42:00Z</lastmod>
+  <lastmod>2022-05-30T05:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/2021/</loc>
-  <lastmod>2022-05-30T04:42:00Z</lastmod>
+  <lastmod>2022-05-30T05:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/2022/</loc>
-  <lastmod>2022-05-30T04:42:00Z</lastmod>
+  <lastmod>2022-05-30T05:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/archive.html</loc>
-  <lastmod>2022-05-30T04:42:00Z</lastmod>
+  <lastmod>2022-05-30T05:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/categories/</loc>
-  <lastmod>2022-05-30T04:42:00Z</lastmod>
+  <lastmod>2022-05-30T05:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nz-caligula.github.io/categories/bbc/</loc>
+  <lastmod>2022-05-30T05:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/categories/cat_jacinda-ardern/</loc>
-  <lastmod>2022-05-30T04:42:00Z</lastmod>
+  <lastmod>2022-05-30T05:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nz-caligula.github.io/categories/cost-of-living/</loc>
+  <lastmod>2022-05-30T05:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/categories/jacinda-ardern/</loc>
-  <lastmod>2022-05-30T04:42:00Z</lastmod>
+  <lastmod>2022-05-30T05:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/categories/look-at-me/</loc>
-  <lastmod>2022-05-30T04:42:00Z</lastmod>
+  <lastmod>2022-05-30T05:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nz-caligula.github.io/categories/nz/</loc>
+  <lastmod>2022-05-30T05:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/galleries/</loc>
-  <lastmod>2022-05-30T04:42:00Z</lastmod>
+  <lastmod>2022-05-30T05:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/listings/</loc>
-  <lastmod>2022-05-30T04:42:00Z</lastmod>
+  <lastmod>2022-05-30T05:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/</loc>
-  <lastmod>2022-05-30T04:41:00Z</lastmod>
+  <lastmod>2022-05-30T05:06:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/2021/</loc>
-  <lastmod>2022-05-30T03:54:00Z</lastmod>
+  <lastmod>2022-05-30T04:42:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/2022/</loc>
-  <lastmod>2022-05-30T03:48:00Z</lastmod>
+  <lastmod>2022-05-30T04:42:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/archive.html</loc>
-  <lastmod>2022-05-30T03:48:00Z</lastmod>
+  <lastmod>2022-05-30T04:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://nz-caligula.github.io/nz-caligula.github.io/blog.html</loc>
+  <lastmod>2022-05-30T04:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/categories/</loc>
-  <lastmod>2022-05-30T03:54:00Z</lastmod>
+  <lastmod>2022-05-30T04:42:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/categories/cat_jacinda-ardern/</loc>
-  <lastmod>2022-05-30T03:54:00Z</lastmod>
+  <lastmod>2022-05-30T04:42:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/categories/jacinda-ardern/</loc>
-  <lastmod>2022-05-30T03:54:00Z</lastmod>
+  <lastmod>2022-05-30T04:42:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/categories/look-at-me/</loc>
-  <lastmod>2022-05-30T03:54:00Z</lastmod>
+  <lastmod>2022-05-30T04:42:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/galleries/</loc>
-  <lastmod>2022-05-30T03:54:00Z</lastmod>
+  <lastmod>2022-05-30T04:42:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/listings/</loc>
-  <lastmod>2022-05-30T03:54:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/</loc>
-  <lastmod>2022-05-30T04:40:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/2021/</loc>
-  <lastmod>2022-05-30T04:39:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/2022/</loc>
-  <lastmod>2022-05-30T04:39:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/archive.html</loc>
-  <lastmod>2022-05-30T04:39:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/categories/</loc>
-  <lastmod>2022-05-30T04:39:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/categories/cat_jacinda-ardern/</loc>
-  <lastmod>2022-05-30T04:39:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/categories/jacinda-ardern/</loc>
-  <lastmod>2022-05-30T04:39:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/categories/look-at-me/</loc>
-  <lastmod>2022-05-30T04:39:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/galleries/</loc>
-  <lastmod>2022-05-30T04:39:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/listings/</loc>
-  <lastmod>2022-05-30T04:39:00Z</lastmod>
+  <lastmod>2022-05-30T04:42:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/new-zealands-caligula/</loc>
-  <lastmod>2022-05-30T03:54:00Z</lastmod>
+  <lastmod>2022-05-30T04:42:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/new-zealands-caligula/index.src.html</loc>
   <lastmod>2022-02-26T02:07:00Z</lastmod>
  </url>
  <url>
-  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/pages/new-zealands-caligula/</loc>
-  <lastmod>2022-05-30T04:39:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/pages/new-zealands-caligula/index.src.html</loc>
-  <lastmod>2022-02-26T02:07:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/posts/bbc/</loc>
-  <lastmod>2022-05-30T04:39:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/posts/bbc/index.src.html</loc>
-  <lastmod>2022-05-30T04:39:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/posts/look-at-me/</loc>
-  <lastmod>2022-05-30T04:39:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/posts/look-at-me/index.src.html</loc>
-  <lastmod>2022-02-26T02:25:00Z</lastmod>
- </url>
- <url>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/posts/bbc/</loc>
-  <lastmod>2022-05-30T03:48:00Z</lastmod>
+  <lastmod>2022-05-30T04:42:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/posts/bbc/index.src.html</loc>
-  <lastmod>2022-05-30T03:50:00Z</lastmod>
+  <lastmod>2022-05-30T04:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/posts/look-at-me/</loc>
-  <lastmod>2022-05-30T03:54:00Z</lastmod>
- </url>
- <url>
-  <loc>http://nz-caligula.github.io/nz-caligula.github.io/posts/look-at-me/blog.html</loc>
-  <lastmod>2022-02-26T02:48:00Z</lastmod>
+  <lastmod>2022-05-30T04:42:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/posts/look-at-me/index.src.html</loc>
@@ -179,7 +127,7 @@
  </url>
  <url>
   <loc>http://nz-caligula.github.io/pages/new-zealands-caligula/</loc>
-  <lastmod>2022-05-30T04:42:00Z</lastmod>
+  <lastmod>2022-05-30T05:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/pages/new-zealands-caligula/index.src.html</loc>
@@ -187,15 +135,15 @@
  </url>
  <url>
   <loc>http://nz-caligula.github.io/posts/bbc/</loc>
-  <lastmod>2022-05-30T04:42:00Z</lastmod>
+  <lastmod>2022-05-30T05:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/posts/bbc/index.src.html</loc>
-  <lastmod>2022-05-30T04:39:00Z</lastmod>
+  <lastmod>2022-05-30T05:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/posts/look-at-me/</loc>
-  <lastmod>2022-05-30T04:42:00Z</lastmod>
+  <lastmod>2022-05-30T05:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://nz-caligula.github.io/posts/look-at-me/index.src.html</loc>
