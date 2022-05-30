@@ -7,50 +7,74 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://nz-caligula.github.io/categories/cat_jacinda-ardern.xml</loc>
-  <lastmod>2022-05-30T03:50:00Z</lastmod>
+  <lastmod>2022-05-30T04:42:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nz-caligula.github.io/categories/jacinda-ardern.xml</loc>
-  <lastmod>2022-05-30T03:50:00Z</lastmod>
+  <lastmod>2022-05-30T04:42:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nz-caligula.github.io/categories/look-at-me.xml</loc>
-  <lastmod>2022-05-30T03:50:00Z</lastmod>
+  <lastmod>2022-05-30T04:42:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nz-caligula.github.io/galleries/rss.xml</loc>
-  <lastmod>2022-05-30T03:48:00Z</lastmod>
+  <lastmod>2022-05-30T04:42:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/categories/cat_jacinda-ardern.xml</loc>
-  <lastmod>2022-02-26T02:25:00Z</lastmod>
+  <lastmod>2022-05-30T03:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/categories/jacinda-ardern.xml</loc>
-  <lastmod>2022-02-26T02:25:00Z</lastmod>
+  <lastmod>2022-05-30T03:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/categories/look-at-me.xml</loc>
-  <lastmod>2022-02-26T02:25:00Z</lastmod>
+  <lastmod>2022-05-30T03:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/galleries/rss.xml</loc>
-  <lastmod>2022-02-26T02:48:00Z</lastmod>
+  <lastmod>2022-05-30T03:48:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/categories/cat_jacinda-ardern.xml</loc>
+  <lastmod>2022-05-30T04:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/categories/jacinda-ardern.xml</loc>
+  <lastmod>2022-05-30T04:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/categories/look-at-me.xml</loc>
+  <lastmod>2022-05-30T04:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/galleries/rss.xml</loc>
+  <lastmod>2022-05-30T04:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/rss.xml</loc>
+  <lastmod>2022-05-30T04:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://nz-caligula.github.io/nz-caligula.github.io/pages/sitemap.xml</loc>
+  <lastmod>2022-05-30T04:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/rss.xml</loc>
-  <lastmod>2022-02-26T02:25:00Z</lastmod>
+  <lastmod>2022-05-30T03:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nz-caligula.github.io/nz-caligula.github.io/sitemap.xml</loc>
-  <lastmod>2022-02-26T02:48:00Z</lastmod>
+  <lastmod>2022-05-30T03:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nz-caligula.github.io/rss.xml</loc>
-  <lastmod>2022-05-30T03:50:00Z</lastmod>
+  <lastmod>2022-05-30T04:42:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://nz-caligula.github.io/sitemap.xml</loc>
-  <lastmod>2022-05-30T03:50:00Z</lastmod>
+  <lastmod>2022-05-30T04:42:00Z</lastmod>
  </sitemap>
 </sitemapindex>
